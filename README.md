@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arisukarno25
-- 👀 I’m interested in Cloud, DevOps, Programming, OpenRAN, 5G
-- 🌱 I’m currently learning at Institut Teknologi Telkom Purwokerto
+- 👀 I’m interested in Cloud, DevOps, and Programming
+- 🌱 I’m working as a Cloud Engineer in Startup Singapore (Cloud Comrade Pte Ltd)
 - 📫 How to reach me arisukarno.25@gmail.com
 
 <!---
